@@ -11,7 +11,7 @@ static int policeThief(char arr[], int n, int k)
 {
 	int res = 0;
 	ArrayList<Integer> thi = new ArrayList<Integer>();
-	ArrayList<Integer> pol = new ArrayList<Integer>()
+	ArrayList<Integer> pol = new ArrayList<Integer>();
 
 	// store indices in the ArrayList
 	for (int i = 0; i < n; i++) {
